@@ -64,7 +64,15 @@
     <Compile Include="Assets\ChristmasCookies\Scripts\RespawnFruit.cs" />
     <Compile Include="Assets\ChristmasCookies\Scripts\RespawnFruit2D.cs" />
     <Compile Include="Assets\ChristmasCookies\Scripts\ShootFruit.cs" />
+    <Compile Include="Assets\collectiblescript.cs" />
+    <Compile Include="Assets\Customizable Medieval Houses\DemoScene\Character Controllers\Sources\Scripts\MouseLook.cs" />
+    <Compile Include="Assets\HUD_Manager.cs" />
     <Compile Include="Assets\Knight\scripts\rotator.cs" />
+    <None Include="Assets\Customizable Medieval Houses\Japanese Coin\Environment\HDR_Readme.txt" />
+    <None Include="Assets\Baker House\Cartoon lowpoly water well\readme.txt" />
+    <None Include="Assets\Customizable Medieval Houses\Japanese Coin\hello there.txt" />
+    <None Include="Assets\Baker House\Readme.txt" />
+    <None Include="Assets\MedievalTownExteriors\Readme.txt" />
     <None Include="Assets\Knight\shaders\doublesidedshader.shader" />
     <None Include="Assets\ChristmasCookies\Readme.txt" />
     <Reference Include="UnityEditor.StandardEvents">
