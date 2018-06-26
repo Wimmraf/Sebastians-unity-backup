@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class HUD_Manager : MonoBehaviour
 {
     public int StartingHealth;
-    int CurrentHealth;
+    public int CurrentHealth;
 
     int score;
     public Text scoretext;
