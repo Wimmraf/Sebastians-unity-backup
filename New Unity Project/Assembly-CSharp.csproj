@@ -100,11 +100,14 @@
     <Compile Include="Assets\BUILDINGS\TownHall\PostProcessing\Runtime\Utils\GraphicsUtils.cs" />
     <Compile Include="Assets\BUILDINGS\TownHall\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\BUILDINGS\TownHall\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
-    <Compile Include="Assets\collectiblescript.cs" />
-    <Compile Include="Assets\HitPlayer.cs" />
-    <Compile Include="Assets\HUD_Manager.cs" />
-    <Compile Include="Assets\Knight\scripts\rotator.cs" />
     <Compile Include="Assets\Mixamo\Melee Axe Pack\Demo\CameraScroll.cs" />
+    <Compile Include="Assets\PEOPLE\Knight\scripts\rotator.cs" />
+    <Compile Include="Assets\SCRIPTS\collectiblescript.cs" />
+    <Compile Include="Assets\SCRIPTS\EnemyStats.cs" />
+    <Compile Include="Assets\SCRIPTS\HitEnemy.cs" />
+    <Compile Include="Assets\SCRIPTS\HitPlayer.cs" />
+    <Compile Include="Assets\SCRIPTS\HUD_Manager.cs" />
+    <Compile Include="Assets\SCRIPTS\PlayerScript.cs" />
     <None Include="Assets\BUILDINGS\TownHall\PostProcessing\Resources\Shaders\DepthOfField.shader" />
     <None Include="Assets\BUILDINGS\TownHall\Shaders\EA.shader" />
     <None Include="Assets\BUILDINGS\TownHall\Shaders\Unlit_AO.shader" />
@@ -135,7 +138,7 @@
     <None Include="Assets\BUILDINGS\MedievalTownExteriors\Readme.txt" />
     <None Include="Assets\BUILDINGS\TownHall\PostProcessing\Resources\Shaders\Common.cginc" />
     <None Include="Assets\BUILDINGS\TownHall\PostProcessing\Editor Resources\UI\Trackball.shader" />
-    <None Include="Assets\Knight\shaders\doublesidedshader.shader" />
+    <None Include="Assets\PEOPLE\Knight\shaders\doublesidedshader.shader" />
     <None Include="Assets\BUILDINGS\TownHall\PostProcessing\Resources\Shaders\Bloom.cginc" />
     <None Include="Assets\BUILDINGS\TownHall\PostProcessing\Resources\Shaders\TAA.shader" />
     <None Include="Assets\BUILDINGS\TownHall\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
