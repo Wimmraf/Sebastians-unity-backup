@@ -33,7 +33,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
             if (agent.remainingDistance > agent.stoppingDistance)
             {
                 character.Move(agent.desiredVelocity, false, false);
-                anim.SetBool("Attacking", true);
+                anim.SetBool("Attacking", false);
             }
             else
             {
